@@ -1,4 +1,4 @@
-# GPT4free - use ChatGPT, for free!!
+# GPT4free - use ChatGPT, for free! !
 
 ##### You may join our discord server for updates and support ; ) 
 - [Discord Link](https://discord.gg/gpt4free)
